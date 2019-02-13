@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Staatliches');
+
+body{
+background-color: purple;
+font-family: 'Staatliches', cursive;
+}
+
+a{
+color:yellow;
+text-decoration: none;
+font-size: 24px;
+}
+a:hover{
+background-color: pink;
+}
+li{
+list-style: lower-alpha;
+}
+
+.textlinks{
+font-size: 16px;
+}
+
+
+#aboutMe{
+  color: orange;
+  background: linear-gradient(#f69d3c, #3f87a6);
+}
+
+.pink{
+  color: pink;
+}
+
+#education{
+  color: green;
+}
+
+#experience{
+  color: green;
+}
+
+#skills{
+  color: green
+}
+
+.blue{
+  color: blue;
+}
+
+#expected{
+  color: silver;
+}
