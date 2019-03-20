@@ -1,0 +1,56 @@
+
+  @import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei');
+
+      #adidas{
+        width: 100%;
+        height: 50px;
+        background-color: beige;
+        text-align: center;
+        font-family: 'ZCOOL XiaoWei', serif;
+
+      }
+
+      #adidasContent{
+        display: grid;
+        grid-template-row: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 3fr;
+        font-family: 'ZCOOL XiaoWei', serif;
+      }
+
+      .sectionImages{
+        width: 100%;
+        height: auto;
+        background-color: black;
+      }
+
+    #nike{
+      width: 100%;
+      height: 50px;
+      background-color: beige;
+      text-align: center;
+      font-family: 'ZCOOL XiaoWei', serif;
+    }
+
+    #nikeContent{
+      display: grid;
+      grid-template-row: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 3fr;
+      font-family: 'ZCOOL XiaoWei', serif;
+    }
+
+
+
+    #puma{
+      width: 100%;
+      height: 50px;
+      background-color: beige;
+      text-align: center;
+      font-family: 'ZCOOL XiaoWei', serif;
+    }
+
+    #pumaContent{
+      display: grid;
+      grid-template-row: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 3fr;
+      font-family: 'ZCOOL XiaoWei', serif;
+    }
