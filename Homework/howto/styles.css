@@ -1,0 +1,22 @@
+body {
+    background-color: #FAF7F2;
+    margin-top: 100px;
+    font-family: 'Lato', serif;
+    line-height: 1.6
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.main {
+    width: 800px;
+    margin: 0 auto;
+}
