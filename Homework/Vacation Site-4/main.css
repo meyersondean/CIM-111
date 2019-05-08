@@ -1,0 +1,20 @@
+h1,
+p,
+header,
+ul {
+    text-align: center;
+    font-family: "Futura";
+}
+
+div {
+    margin: auto;
+    width: 50%;
+}
+
+body {
+    background-color: aliceblue
+}
+
+ul {
+    list-style-type: none;
+}
